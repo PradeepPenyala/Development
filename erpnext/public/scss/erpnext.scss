@@ -552,3 +552,7 @@ body[data-route="pos"] {
 .frappe-control[data-fieldname="other_charges_calculation"] .ql-editor {
 	white-space: normal;
 }
+
+li.nav-item.dropdown-help.dropdown-mobile.d-none.d-lg-block{
+	visibility:hidden;
+}
